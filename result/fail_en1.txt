@@ -1,0 +1,52 @@
+DESC	ABBR	tmj là gì
+ABBR	DESC	" cc " trong động_cơ có nghĩa_là gì
+ENTY	DESC	bệnh thần_kinh là loại bệnh gì
+ENTY	DESC	chất tạo độ axit trong dạ_dày là gì
+ENTY	DESC	Độ p h là gì
+ENTY	DESC	Động_vật ký_sinh là gì
+ABBR	DESC	hai tuần_lễ có nghĩa_là gì
+ENTY	DESC	tạp_chí là gì
+ENTY	DESC	thiết_bị phát_hiện tàu_ngầm là gì
+ENTY	DESC	tiền trợ_cấp hàng năm là gì
+ENTY	DESC	lá_lách làm_công việc_gì
+DESC	ENTY	báo châu phi là gì
+DESC	ENTY	chim của bang maryland là gì
+DESC	ENTY	giống chó_săn của beverly_hillbillies là gì
+HUM	ENTY	tên gán cho hổ tại Đại_học bang louisiana là gì
+DESC	ENTY	Đơn_vị_tiền_tệ của angelia là gì
+DESC	ENTY	Đơn_vị_tiền_tệ của australia là gì
+DESC	ENTY	trường_hợp bệnh về chân và miệng là gì
+HUM	ENTY	chương_trình cải_cách của tổng_thống lyndon_johnson gọi_là gì
+LOC	ENTY	cuộc_chiến nào chấm_dứt gần 1000 năm bắc thuộc
+DESC	ENTY	món ăn nổi_tiếng ở Ý là gì
+HUM	ENTY	ngôn_ngữ chính của người ai xơ len là gì
+DESC	ENTY	nguồn_gốc của khí_thiên_nhiên là gì
+LOC	ENTY	trường_Đại học nào ở hà_nội có diện_tích lớn nhất
+HUM	ENTY	tu_viện nào được khám_xét bởi viking vào cuối thế_kỷ thứ tám
+LOC	ENTY	hoa của bang illinois là gì
+DESC	ENTY	hoa tiểu_bang michigan là gì
+LOC	ENTY	loài hoa nào tượng_trưng cho đất_nước bulgari
+LOC	ENTY	kim_loại nào có nhiệt_độ nóng_chảy cao nhất
+HUM	ENTY	người vẽ bản_đồ chuyên_nghiệp được gọi_là gì
+HUM	ENTY	tàu_vũ_trụ nào mà nhà du_hành mỹ_alan_shepard đã thực_hiện chuyến bay lịch_sử năm 1961
+LOC	HUM	Đội bóng lâu_đời nhất nước anh là gì
+ENTY	HUM	trường_Đại học lâu_đời nhất tại việt_nam là gì
+LOC	HUM	thành_lương chơi ở vị_trí nào trong đội_tuyển quốc_gia
+NUM	LOC	Đập thủy_điện lớn nhất việt_nam
+DESC	LOC	hai vùng lãnh_thổ của canada là gì
+ENTY	LOC	hành_tinh nào có sức hút mạnh nhất trong ​ tất_cả các hành_tinh
+ENTY	LOC	hành_tinh nào được biết đến như_là hành_tinh đỏ
+HUM	LOC	ngôi_sao sáng nhất_là ngôi_sao nào
+ENTY	LOC	phần_nào trên cơ_thể con_người có chức_năng giữ thăng_bằng
+NUM	LOC	vĩ_tuyến nào nằm giữa cực bắc và cực nam của trái_Đất
+HUM	LOC	bánh_cáy là đặc_sản của tỉnh nào
+ENTY	LOC	rượu cô - nhắc được sản_xuất ở tỉnh nào của pháp
+ENTY	NUM	thủy_ngân , năm mà nó được tìm ra
+LOC	NUM	Độ sâu của sông nin là gì
+DESC	NUM	Đường_kính của trái_Đất là gì
+DESC	NUM	giải ngân_hà milky_way rộng như_thế_nào
+DESC	NUM	tỷ_lệ chuyển_đổi giữa usd và bảng anh là gì
+DESC	NUM	mức thuế bán hàng ở new_york là gì
+DESC	NUM	tỷ_lệ_phần_trăm của hàm_lượng nước trong cơ_thể con_người là gì
+ENTY	NUM	tủ_lạnh nên để ở nhiệt_độ nào
+DESC	NUM	trọng_lượng nguyên_tử bạc là gì

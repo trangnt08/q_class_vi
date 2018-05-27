@@ -1,0 +1,141 @@
+file pos_tfidf_1_1:  POS+svm+(1,1)
+ABBR | Từ_E viết_V tắt_N cho_E Cục_Np điều_tra_V quốc_gia_N là_V gì_P ?_F
+ABBR | Tên_N viết_V tắt_A cho_E thành_phố_N Hà_Nội_Np là_V gì_P ?_F
+ accuracy: 0.866
+ f1: 0.865
+confuse matrix:
+[[  4   5   0   0   0   0]
+ [  0 129   8   0   1   0]
+ [  0  10  71   4   5   3]
+ [  0   0   2  61   2   0]
+ [  0   2   6   3  70   0]
+ [  0   6   4   5   1  98]]
+-----------------------
+fine grained category
+-----------------------
+loading model ...model_pos/pos_fine.pkl
+ 2018-05-24 15:08:49.808910 - Training for fine grained category completed 0 mins and 37.82 seconds
+ 2018-05-24 15:08:52.494636 - Converting completed 0 mins and 2.69 seconds
+ accuracy for fine grained category: 0.752
+ f1: 0.739
+
+ file pos_1_2.py: POS+svm+(1,2)
+ First review: ABBR | Từ_E viết_V tắt_N cho_E Cục_Np điều_tra_V quốc_gia_N là_V gì_P ?_F
+First review: ABBR | Tên_N viết_V tắt_A cho_E thành_phố_N Hà_Nội_Np là_V gì_P ?_F
+loading model ...model_pos/pos12.pkl
+ 2018-05-24 11:48:28.927232 - Training completed 0 mins and 17.89 seconds
+ 2018-05-24 11:48:30.595541 - Converting completed 0 mins and 1.67 seconds
+ accuracy: 0.888
+ f1: 0.887
+confuse matrix:
+[[  4   5   0   0   0   0]
+ [  0 132   6   0   0   0]
+ [  1  11  72   6   3   0]
+ [  0   2   1  61   1   0]
+ [  0   2   7   2  70   0]
+ [  0   6   2   0   1 105]]
+-----------------------
+fine grained category
+loading model ...model_pos/pos_fine12.pkl
+ accuracy for fine grained category: 0.750
+ f1: 0.727
+
+
++x1+ pos+(1,2)
+loading model ...model_pos/pos.pkl
+ 2018-05-24 15:31:19.225262 - Training completed 0 mins and 17.89 seconds
+ 2018-05-24 15:31:20.875121 - Converting completed 0 mins and 1.65 seconds
+ accuracy: 0.882
+ f1: 0.882
+confuse matrix:
+[[  8   1   0   0   0   0]
+ [  2 128   7   0   0   1]
+ [  0  13  71   6   3   0]
+ [  0   2   2  60   1   0]
+ [  0   2   7   3  69   0]
+ [  0   6   2   0   1 105]]
+-----------------------
+fine grained category
+-----------------------
+loading model ...model_pos/pos_fine.pkl
+ 2018-05-24 15:31:57.195513 - Training for fine grained category completed 0 mins and 36.32 seconds
+ 2018-05-24 15:31:59.930979 - Converting completed 0 mins and 2.74 seconds
+ accuracy for fine grained category: 0.752
+ f1: 0.731
+
+
+ rf+pos+tiidf+(1,1)
+ loading model ...model_pos/rf_pos1.pkl
+ 2018-05-25 17:21:43.348867 - Training completed 0 mins and 4.26 seconds
+ 2018-05-25 17:21:43.375200 - Converting completed 0 mins and 0.03 seconds
+ accuracy: 0.860
+ f1: 0.861
+confuse matrix:
+[[  7   2   0   0   0   0]
+ [  0 133   5   0   0   0]
+ [  0  14  67   5   4   3]
+ [  0   0   7  57   1   0]
+ [  0   0  12   1  68   0]
+ [  0   7   7   1   1  98]]
+-----------------------
+fine grained category
+-----------------------
+loading model ...model_pos/rf_pos_fine.pkl
+ 2018-05-25 17:21:48.660757 - Training for fine grained category completed 0 mins and 5.28 seconds
+ 2018-05-25 17:21:48.700907 - Converting completed 0 mins and 0.04 seconds
+ accuracy for fine grained category: 0.748
+ f1: 0.724
+
+
+RF:  POS + ngram(1,2)
+ First review: ABBR | Từ_E viết_V tắt_N cho_E Cục_Np điều_tra_V quốc_gia_N là_V gì_P ?_F
+Data dimensions: (500, 3)
+List features: ['label1' 'label2' 'question']
+First review: ABBR | Tên_N viết_V tắt_A cho_E thành_phố_N Hà_Nội_Np là_V gì_P ?_F
+---------------------------
+Training
+---------------------------
+loading model ...model_pos/rf_pos12.pkl
+ 2018-05-25 17:46:38.529943 - Training completed 0 mins and 17.47 seconds
+ 2018-05-25 17:46:40.158164 - Converting completed 0 mins and 1.63 seconds
+ accuracy: 0.888
+ f1: 0.887
+confuse matrix:
+[[  4   5   0   0   0   0]
+ [  0 132   6   0   0   0]
+ [  1  11  72   6   3   0]
+ [  0   2   1  61   1   0]
+ [  0   2   7   2  70   0]
+ [  0   6   2   0   1 105]]
+-----------------------
+fine grained category
+-----------------------
+loading model ...model_pos/rf_pos_fine12.pkl
+ 2018-05-25 17:46:45.072262 - Training for fine grained category completed 0 mins and 4.91 seconds
+ 2018-05-25 17:46:45.111269 - Converting completed 0 mins and 0.04 seconds
+ accuracy for fine grained category: 0.750
+ f1: 0.726
+
+
+
+ RF: +x1+ POS + ngram(1,2)
+ loading model ...model_pos/rf_pos12x.pkl
+ 2018-05-25 18:06:13.678977 - Training completed 0 mins and 5.25 seconds
+ 2018-05-25 18:06:13.715599 - Converting completed 0 mins and 0.04 seconds
+ accuracy: 0.864
+ f1: 0.864
+confuse matrix:
+[[  7   2   0   0   0   0]
+ [  0 133   5   0   0   0]
+ [  1  10  70   5   6   1]
+ [  0   0   7  56   2   0]
+ [  0   2  10   2  66   1]
+ [  0   9   4   0   1 100]]
+-----------------------
+fine grained category
+-----------------------
+loading model ...model_pos/rf_pos_fine12x.pkl
+ 2018-05-25 18:06:20.874899 - Training for fine grained category completed 0 mins and 7.15 seconds
+ 2018-05-25 18:06:20.920750 - Converting completed 0 mins and 0.05 seconds
+ accuracy for fine grained category: 0.762
+ f1: 0.732

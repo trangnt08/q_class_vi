@@ -1,0 +1,107 @@
+def	exp	tmj là gì
+exp	def	" cc " trong động_cơ có nghĩa_là gì
+plant	def	bạch hoa là gì
+dismed	def	bệnh thần_kinh là loại bệnh gì
+dismed	def	các tác_nhân gây bệnh là gì
+plant	def	cây dương_xỉ là cây gì
+substance	def	chất tạo độ axit trong dạ_dày là gì
+other	def	Độ p h là gì
+exp	def	hai tuần_lễ có nghĩa_là gì
+desc	def	luật gia_đình là gì
+date	def	ngày valentine là gì
+substance	def	quá_trình trao_đổi chất là gì
+money	def	tiền trợ_cấp hàng năm là gì
+other	desc	lá_lách làm_công việc_gì
+manner	desc	máy khử rung tim làm việc_gì
+techmeth	reason	thực_quản được sử_dụng để làm_gì
+def	animal	báo châu phi là gì
+symbol	animal	chim biểu_tượng cho new_york là gì
+state	animal	chim của bang maryland là gì
+def	animal	giống chó_săn của beverly_hillbillies là gì
+gr	animal	tên gán cho hổ tại Đại_học bang louisiana là gì
+other	animal	toto là loại chó nào trong " wizard of oz "
+def	body	Động_mạch duy_nhất mang máu màu xanh từ trái_tim đến phổi là gì
+other	currency	argentina sử_dụng những loại tiền_tệ nào
+def	currency	Đơn_vị_tiền_tệ của angelia là gì
+def	currency	Đơn_vị_tiền_tệ của australia là gì
+other	currency	họ sử_dụng những loại tiền_tệ nào ở brazil
+other	currency	lúc-xăm-bua sử_dụng những loại tiền_tệ nào
+other	currency	Đơn_vị_tiền_tệ người_ta sử_dụng trong zambia là gì
+ind	dismed	kể tên một chất kích_thích
+def	dismed	trường_hợp bệnh về chân và miệng là gì
+cremat	event	chương_trình cải_cách của tổng_thống lyndon_johnson gọi_là gì
+other	event	cuộc_chiến nào chấm_dứt gần 1000 năm bắc thuộc
+animal	food	loài nhện ăn gì
+country	food	nước sốt melba làm từ hoa_quả nào
+other	food	tên một cao thực_phẩm giàu chất kẽm
+food	other	hai loại sinh_đôi là gì
+currency	other	loại polymer được sử_dụng cho áo_khoác chống đạn là gì
+desc	other	nguồn_gốc của khí_thiên_nhiên là gì
+food	other	thuế kinh_doanh gồm những loại gì
+def	other	thuốc_nổ gồm những thành_phần gì
+event	other	trận quần_vợt nào diễn ra lâu nhất trong lịch_sử
+ind	other	tu_viện nào được khám_xét bởi viking vào cuối thế_kỷ thứ tám
+state	plant	hoa của bang illinois là gì
+date	plant	vải lanh được sản_xuất chủ_yếu từ_loại cây nào
+other	product	Đồ_chơi phổ_biến nhất năm 1957 là gì
+ind	product	tên của vệ_tinh mỹ đầu_tiên được gửi vào không_gian là gì
+other	product	tên vệ_tinh mà liên_xô phóng vào không_gian năm 1957 là gì
+date	product	vệ_tinh đầu_tiên bay vào không_gian là gì
+color	substance	Đá_quý birthstone nào màu ngọc lam
+def	substance	khí gì ở tầng đối_lưu
+def	substance	khí tự_nhiên gồm những thành_phần gì
+ind	substance	kim_loại nào có nhiệt_độ nóng_chảy cao nhất
+food	substance	loại đá_quý nào_là một dạng cacbon tinh_khiết
+food	substance	loại khí nào có trong bóng_đèn huỳnh_quang
+def	substance	tượng_đài lý_thái_tổ được làm_bằng gì
+other	substance	viên đá_quý gắn với tháng mười là gì
+animal	termeq	con bò con gọi_là gì
+other	veh	máy_bay mà lindbergh lái một_mình vượt Đại_tây_dương tên gì
+other	veh	phương_tiện giao_thông phổ_biến nhất việt_nam là gì
+ind	veh	tàu_vũ_trụ nào mà nhà du_hành mỹ_alan_shepard đã thực_hiện chuyến bay lịch_sử năm 1961
+date	gr	câu_lạc_bộ nào vô_địch v-leage mùa giải 2009-2010
+other	gr	chuỗi cửa_hàng có trụ_sở chính tại bentonville , arkansas là gì
+other	gr	Đội bóng lâu_đời nhất nước anh là gì
+other	gr	trường_Đại học lâu_đời nhất tại việt_nam là gì
+desc	ind	các nghị_sĩ từ tiểu_bang texas trong ủy_ban lực_lượng_vũ_trang là ai
+desc	ind	thống_đốc alaska là ai
+country	title	thành_lương chơi ở vị_trí nào trong đội_tuyển quốc_gia
+termeq	city	thành_phố còn được biết đến như cánh cửa đến với miền tây
+city	country	thành_phố modesto , california nằm ở nước nào
+other	mount	dãy_andes nằm ở đâu
+def	other	hai vùng lãnh_thổ của canada là gì
+termeq	other	hành_tinh nào được biết đến như_là hành_tinh đỏ
+ind	other	kênh đào nào nằm giữa châu phi và châu Á
+body	other	phần_nào trên cơ_thể con_người có chức_năng giữ thăng_bằng
+other	state	sông_lam nằm ở tỉnh nào
+ind	state	bánh_cáy là đặc_sản của tỉnh nào
+other	state	lũng_cú nằm ở tỉnh nào
+ind	state	rượu cô - nhắc được sản_xuất ở tỉnh nào của pháp
+country	state	tỉnh nào có lượng mưa trong năm lớn nhất cả nước
+money	count	một quả táo giá bao_nhiêu
+count	date	ngày_tháng nguyễn_trãi mất
+other	date	thủy_ngân , năm mà nó được tìm ra
+other	dist	chiều dài bờ biển của nước ta là bao_nhiêu
+other	dist	chiều rộng của một sân bóng_đá là bao_nhiêu
+other	dist	Độ cao ngọn louis là bao_nhiêu
+other	dist	Độ sâu của sông nin là gì
+other	dist	Đường_kính của quả bóng golf là bao_nhiêu
+def	dist	Đường_kính của trái_Đất là gì
+manner	dist	giải ngân_hà milky_way rộng như_thế_nào
+other	dist	khoảng_cách bằng dặm từ trái_Đất tới mặt_trời là bao_nhiêu
+other	dist	khoảng_cách là bao_nhiêu từ hà_nội đến tp hồ_chí_minh
+count	dist	sông_columbia dài bao dặm
+count	money	một pe - xo bằng bao_nhiêu đô_la mỹ
+desc	money	tỷ_lệ chuyển_đổi giữa usd và bảng anh là gì
+period	other	bao_lâu thì old_faithful lại phun tại công_viên quốc_gia yellowstone
+count	other	có bao_nhiêu ga - lon nước trong một mét_khối nước
+temp	other	nhiệt_độ nóng_chảy của đồng là bao_nhiêu
+period	other	tuổi_thọ trung_bình của loài cá_voi xanh là bao_lâu
+count	perc	nước_đang_phát_triển chiếm bao phần_trăm của dân_số thế_giới
+body	perc	tỷ_lệ_phần_trăm của hàm_lượng nước trong cơ_thể con_người là gì
+other	speed	tốc_độ hấp_thụ của rượu là bao_nhiêu
+period	speed	tốc_độ trung_bình của máy_bay dân_dụng là bao_nhiêu
+money	speed	tốc_độ trung_bình của một con báo châu phi là bao_nhiêu
+count	weight	một khối nước_nặng bao_nhiêu
+def	weight	trọng_lượng nguyên_tử bạc là gì
+other	weight	trọng_lượng trung_bình của một con gấu_bắc cực trưởng_thành là gì

@@ -1,0 +1,132 @@
+dung tiidf + ngrams(1,2)
+
++ x3 + tiidf + ngrams(1,2):
+ accuracy: 0.878
+confuse matrix:
+[[  8   1   0   0   0   0]
+ [  4 125   9   0   0   0]
+ [  0  11  71   6   5   0]
+ [  0   0   2  60   2   1]
+ [  0   2   6   2  70   1]
+ [  0   5   3   0   1 105]]
+-----------------------
+fine grained category
+-----------------------
+loading model ...model_balance/tfidf_fine12.pkl
+ 2018-05-24 09:52:31.440569 - Training for fine grained category completed 0 mins and 36.28 seconds
+ 2018-05-24 09:52:34.272898 - Converting completed 0 mins and 2.83 seconds
+ accuracy for fine grained category: 0.788
+
++ x2 +tiidf + ngrams(1,2):
+ accuracy: 0.888
+confuse matrix:
+[[  8   1   0   0   0   0]
+ [  2 127   9   0   0   0]
+ [  0  11  71   6   5   0]
+ [  0   0   1  62   2   0]
+ [  0   2   5   2  71   1]
+ [  0   6   2   0   1 105]]
+-----------------------
+fine grained category
+-----------------------
+loading model ...model_balance/tfidf_fine12.pkl
+accuracy for fine grained category: 0.784
+
++x1 + tiidf + ngrams(1,2): tfidf_1_2_balance.py
+loading model ...model_balance/tfidf12.pkl
+ 2018-05-24 09:55:51.211416 - Training completed 0 mins and 17.53 seconds
+ 2018-05-24 09:55:52.856480 - Converting completed 0 mins and 1.65 seconds
+ accuracy: 0.896
+ f1: 0.896
+confuse matrix:
+[[  8   1   0   0   0   0]
+ [  2 128   8   0   0   0]
+ [  0   9  73   6   5   0]
+ [  0   0   1  62   2   0]
+ [  0   1   4   2  72   2]
+ [  0   6   2   0   1 105]]
+-----------------------
+fine grained category
+-----------------------
+loading model ...model_balance/tfidf_fine12.pkl
+accuracy for fine grained category: 0.786
+f1:0.772
+
++x7:
+ accuracy: 0.882
+ f1: 0.883
+confuse matrix:
+[[  7   2   0   0   0   0]
+ [  5 124   9   0   0   0]
+ [  0  12  72   4   5   0]
+ [  0   0   1  62   2   0]
+ [  0   2   5   2  71   1]
+ [  0   5   2   1   1 105]]
+-----------------------
+fine grained category
+-----------------------
+loading model ...model_balance/tfidf_fine12.pkl
+ 2018-05-24 10:00:10.969279 - Training for fine grained category completed 0 mins and 38.37 seconds
+ 2018-05-24 10:00:13.751635 - Converting completed 0 mins and 2.78 seconds
+ accuracy for fine grained category: 0.778
+f1: 0.765
+
+
++x1:
+ubibig +(1,2):
+accuracy: 0.886
+ f1: 0.886
+confuse matrix:
+[[  8   1   0   0   0   0]
+ [  2 130   6   0   0   0]
+ [  0  12  73   3   5   0]
+ [  0   2   2  60   1   0]
+ [  0   3   7   2  68   1]
+ [  0   6   3   0   1 104]]
+-----------------------
+fine grained category
+-----------------------
+loading model ...model_balance/unibig_fine.pkl
+ 2018-05-24 10:20:35.161724 - Training for fine grained category completed 0 mins and 33.82 seconds
+ 2018-05-24 10:20:37.792419 - Converting completed 0 mins and 2.63 seconds
+ accuracy for fine grained category: 0.756
+ f1: 0.729
+
++x1 + unibig+(1,1):
+ accuracy: 0.888
+ f1: 0.888
+confuse matrix:
+[[  8   1   0   0   0   0]
+ [  1 129   8   0   0   0]
+ [  0  12  70   5   6   0]
+ [  0   1   2  61   1   0]
+ [  0   3   6   1  70   1]
+ [  0   5   2   0   1 106]]
+-----------------------
+fine grained category
+-----------------------
+loading model ...model_balance/unibig_fine.pkl
+ 2018-05-24 10:23:12.233396 - Training for fine grained category completed 0 mins and 35.73 seconds
+ 2018-05-24 10:23:14.952385 - Converting completed 0 mins and 2.72 seconds
+ accuracy for fine grained category: 0.776
+ f1: 0.765
+
+
+unibig + (1,1)
+ accuracy: 0.890
+ f1: 0.889
+confuse matrix:
+[[  4   5   0   0   0   0]
+ [  0 130   8   0   0   0]
+ [  0  12  73   3   5   0]
+ [  0   1   1  62   1   0]
+ [  0   3   7   1  70   0]
+ [  0   6   1   0   1 106]]
+-----------------------
+fine grained category
+-----------------------
+loading model ...model_balance/unibig_fine.pkl
+ 2018-05-24 10:25:06.665587 - Training for fine grained category completed 0 mins and 35.49 seconds
+ 2018-05-24 10:25:09.429543 - Converting completed 0 mins and 2.76 seconds
+ accuracy for fine grained category: 0.770
+ f1: 0.753

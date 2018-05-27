@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Intent Detection Demo</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css"
+          integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+
+    <!--
+        <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+    -->
+
+    <link rel="stylesheet" href="custom/custom.css">
+
+</head>
+<body>
+
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"
+        integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh"
+        crossorigin="anonymous"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"
+        integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ"
+        crossorigin="anonymous"></script>
+
+<!--
+<script src="bootstrap/js/bootstrap.min.js"></script>
+-->
+
+<div class="container">
+    <div class="row">
+
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <h3 class="text-center">Intent Detection Demo</h3>
+            <h4 class="text-center">&copy; ML-BKA</h4>
+
+        </div>
+    </div>
+    <!-- Content here -->
+    <div class="row">
+        <div class="col-5">
+            <!--
+                        <form id="nerform" action="/ner" method="post">
+            -->
+            <div class="form-group">
+                <label for="sentenceTobeNer">Nhập câu:</label>
+                <textarea class="form-control" id="sentenceTobeNer" rows="25"></textarea>
+                <!--  <label class="form-check-label">
+                      <input class="form-check-input" type="checkbox" value="">
+                  </label>-->
+            </div>
+
+            <!--
+                        </form>
+            -->
+        </div>
+        <div class="col-2 text-center">
+            <button type="button" class="btn btn-primary mt-5" id="send">Gửi</button>
+
+        </div>
+
+        <div class="col-5">
+            <div class="form-group">
+                <label for="resultOfService">Kết quả:</label>
+
+                <textarea class="form-control form-rounded" rows="25" readonly id="nerResult"></textarea>
+            </div>
+
+        </div>
+
+    </div>
+
+    <br/>
+</div>
+<script type='text/javascript'>
+    //Click handler:
+    $("#send").click(function(){
+     var url = "/intent"
+     var posting = $.post( url, { data: $('#sentenceTobeNer').val() } );
+     console.log("Sen: "+$('#sentenceTobeNer').val())
+
+      /* Alerts the results */
+      posting.done(function( data ) {
+        //alert('success');
+        $("#nerResult").val(data);
+      });
+    });
+
+
+
+
+</script>
+</body>
+</html>

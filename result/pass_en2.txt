@@ -1,0 +1,393 @@
+abb	abb	tên viết tắt cho thành_phố hà_nội là gì
+exp	exp	# là viết tắt của từ gì
+exp	exp	cpr có nghĩa_là gì
+exp	exp	nasa có nghĩa_là gì
+exp	exp	thuật_ngữ isdn trong kỹ_thuật có nghĩa_là gì
+exp	exp	từ viết tắt nasa có dạng đầy_đủ là gì
+exp	exp	từ viết tắt sos có dạng đầy_đủ là gì
+exp	exp	usps có nghĩa_là gì
+def	def	acetaminophen là gì
+def	def	amoxicillin là gì
+def	def	angiotensin là gì
+def	def	axit_acetic là gì
+def	def	bác_sĩ nhi_khoa là gì
+def	def	bạch_cầu là gì
+def	def	bại não là gì
+def	def	băng_thông là gì
+def	def	bay_hơi là gì
+def	def	bệnh_bạch_cầu là gì
+def	def	bệnh bò điên là gì
+def	def	bệnh cảm cúm là gì
+def	def	bệnh quai_bị là gì
+def	def	bệnh tiểu_đường là gì
+def	def	bệnh tự kỷ là gì
+def	def	các tế_bào năng_lượng mặt_trời là gì
+def	def	caffein là gì
+def	def	cận_thị là gì
+def	def	carbon dioxide là gì
+def	def	cha_truyền_con_nối là gì
+def	def	châm_cứu là gì
+def	def	chất_bán_dẫn là gì
+def	def	chất_dẻo là gì
+def	def	chất gây ung_thư là gì
+def	def	cholesterol là gì
+def	def	chóng_mặt là gì
+def	def	chứng động_kinh là gì
+def	def	chứng loạn dưỡng cơ là gì
+def	def	chứng loãng_xương là gì
+def	def	chứng rối_loạn hoảng_sợ là gì
+def	def	chứng tăng huyết_áp là gì
+def	def	chứng xơ_gan là gì
+def	def	ciao là gì
+def	def	công_nghệ nano là gì
+def	def	Đa_dạng_sinh_học là gì
+def	def	dải_ngân hà là gì
+def	def	Đạo_đức là gì
+def	def	diêm_sinh là gì
+def	def	diệt_chủng là gì
+def	def	Độ_ẩm là gì
+def	def	Động_đất là gì
+def	def	hang_động là gì
+def	def	Động_mạch là gì
+def	def	Động_vật_không_xương_sống là gì
+def	def	Động_vật ký_sinh là gì
+def	def	Đúc khuôn là gì
+def	def	e-coli là gì
+def	def	enzim là gì
+def	def	gia_tốc là gì
+def	def	gió mặt_trời là gì
+def	def	góc_vuông là gì
+def	def	hình elip là gì
+def	def	kiểm_tra dung_tích phổi là gì
+def	def	lăng_kính là gì
+def	def	lỗ thủng tần ozon là gì
+def	def	lol nghĩa_là gì
+def	def	lưỡng_cư là gì
+def	def	mardi_gras là gì
+def	def	mật_mã học là gì
+def	def	morphine là gì
+def	def	kháng_nguyên là gì
+def	def	pin nhiên_liệu là gì
+def	def	sáp môi là gì
+def	def	mưa axit là gì
+def	def	nấm là gì
+def	def	nấm_mốc là gì
+def	def	năng_lượng hạt_nhân là gì
+def	def	naproxen là gì
+def	def	natri clorua là gì
+def	def	neuron thần_kinh là gì
+def	def	người thổ_dân là gì
+def	def	nguyên_tử là gì
+def	def	nhiệt_kế là gì
+def	def	nicotine là gì
+def	def	pectin là gì
+def	def	pháp_sư là gì
+def	def	phenylalanine là gì
+def	def	pilates là gì
+def	def	play-off nghĩa_là gì
+def	def	polyme là gì
+def	def	propylene glycol là gì
+def	def	rối_loạn tiêu_hóa là gì
+def	def	sao_băng là gì
+def	def	ngành khoa_học học là gì
+def	def	bột lăng là gì
+def	def	sinh_quyển là gì
+def	def	sở_thích pha_trộn là gì
+def	def	sóng_thần là gì
+def	def	sự lai_giống là gì
+def	def	tai_biến mạch_máu não là gì
+def	def	tâm_thần phân_liệt là gì
+def	def	tạp_chí là gì
+def	def	tàu_điện_ngầm là gì
+def	def	thế_chấp tài_sản là gì
+def	def	thiết_bị phát_hiện tàu_ngầm là gì
+def	def	thuốc kháng_sinh là gì
+def	def	thuốc_mê là gì
+def	def	thuỷ_ngân là gì
+def	def	tia_hồng_ngoại là gì
+def	def	tiểu_cầu là gì
+def	def	tuyến_giáp là gì
+def	def	tỷ_lệ nén nghĩa_là gì
+def	def	thiếu_tá là gì
+def	def	vệt đen mặt_trời là gì
+def	def	vết loét là gì
+def	def	viêm khớp dạng thấp là gì
+def	def	viêm phổi là gì
+def	def	vũ_khí_sinh_học là gì
+def	def	wimbledon là gì
+def	def	xã_hội là gì
+def	def	xơ_cứng động_mạch là gì
+def	def	xúc_xích nghiền là gì
+desc	desc	Ảnh_hưởng của mưa axit là gì
+desc	desc	nhà khí_tượng_học làm_gì
+desc	desc	sự khác_nhau giữa am và fm là gì
+desc	desc	tác_động của núi_lửa lên khí_hậu là gì
+manner	manner	Đo động_đất như_thế_nào
+manner	manner	janice_joplin chết như_thế_nào
+reason	reason	cái gì gây ra tóc xám
+reason	reason	tại_sao con bọ_rùa lại có_ích
+reason	reason	tại_sao lại có hiện_tượng thủy_triều
+reason	reason	tại_sao mặt_trời màu vàng
+reason	reason	tại_sao trong tennis điểm không gọi_là tình_yêu
+animal	animal	con chim nhỏ nhất ở anh là gì
+animal	animal	con_trâu con thì gọi_là gì
+animal	animal	Động_vật mà không có xương_sống gọi_là gì
+animal	animal	linh vật của sea_games 22 là gì
+animal	animal	loài chim nào bay nhanh_nhất
+animal	animal	loài động_vật nào nặng nhất thế_giới
+animal	animal	một chú sư_tử con gọi_là gì
+animal	animal	một nhóm các con ếch gọi_là gì
+animal	animal	tên con chó của fdr là gì
+animal	animal	tên khoa_học cho con voi là gì
+body	body	bộ phần_nào trong cơ_thể có chức_năng bài_tiết
+color	color	cần trộn những màu gì để tạo ra màu da_cam
+color	color	dế có màu gì
+color	color	giấy quỳ chuyển sang màu gì khi nó tiếp_xúc với một axit mạnh
+color	color	hoa sen có màu gì
+color	color	lưỡi hươu_cao_cổ có màu gì
+color	color	màu của quốc_kì Đức là màu gì
+color	color	màu mắt phổ_biến nhất_là gì
+color	color	những màu_sắc nào cần phải được pha_trộn để có được màu hồng
+color	color	Ớt chín có màu gì
+color	color	sữa bò tây_tạng có màu gì
+food	food	món ăn nổi_tiếng ở Ý là gì
+instru	instru	glenn_miller chơi nhạc_cụ gì
+lang	lang	ngôn_ngữ được nói phổ_biến nhất tại hà_lan là gì
+lang	lang	ngôn_ngữ chính của người ai xơ len là gì
+other	other	các cơ_quan chính của bên lập_pháp là gì
+other	other	edward_binney và howard_smith phát_minh ra cái gì năm 1903
+other	other	phong_vũ_biểu đo cái gì
+other	other	tiêu_chuẩn của việc bị coi là mù là gì
+other	other	trường_Đại học nào ở hà_nội có diện_tích lớn nhất
+plant	plant	hoa tiểu_bang michigan là gì
+plant	plant	loài hoa đặc_trưng của australia
+plant	plant	loài hoa nào tượng_trưng cho đất_nước bulgari
+sport	sport	các môn thể_thao phổ biếnhất ở nhật_bản là gì
+substance	substance	chất khoáng nào giúp phòng_ngừa chứng loãng n xương
+substance	substance	gương được làm từ gì
+substance	substance	nguyên_tố nặng nhất tự_nhiên là gì
+substance	substance	plastic được làm từ gì
+substance	substance	thuốc_lá làm từ gì
+substance	substance	xi_măng được sản_xuất từ những thành_phần gì
+techmeth	techmeth	cách dễ nhất để loại_bỏ hình nền là gì
+termeq	termeq	bạn gọi một từ mà viết ngược và xuôi giống nhau là gì
+termeq	termeq	chiếc váy truyền_thống của hàn_quốc gọi_là gì
+termeq	termeq	một con kangaroo mới sinh được gọi_là gì
+termeq	termeq	người vẽ bản_đồ chuyên_nghiệp được gọi_là gì
+termeq	termeq	những chấm trên quân bài đô - mi-nô gọi_là gì
+termeq	termeq	tên khác của vitamin b1 là gì
+veh	veh	tàu của william_penn có tên là gì
+desc	desc	nguyễn_huệ là ai
+desc	desc	nguyễn_trãi là ai
+desc	desc	osama_binladen là ai
+gr	gr	công_ty sản_xuất sô cô la lớn nhất thế_giới là gì
+gr	gr	jesse_jackson đã tổ_chức gì
+ind	ind	ai đã viết " the_divine_comedy "
+ind	ind	ai giết john # kennedy
+ind	ind	ai là hoa_hậu việt_nam năm 2008
+ind	ind	ai là người đã đứng đầu cuộc khởi_nghĩa yên_bái
+ind	ind	ai là người đạt huy_chương field tại việt_nam
+ind	ind	ai là người đầu_tiên cai_trị alaska
+ind	ind	ai là người phát_minh ra máy_tính bỏ_túi
+ind	ind	ai là người sáng_lập hội_chữ_thập_đỏ việt_nam
+ind	ind	ai là người sáng_tác bài hát “ tiến_quân_ca ”
+ind	ind	ai là người sáng_tạo ra vũ_điệu hula
+ind	ind	ai là người tạo ra máy_tính mac
+ind	ind	ai là người tìm ra châu mỹ
+ind	ind	ai là người tìm ra radium
+ind	ind	ai là người tìm ra tia x
+ind	ind	ai là người tìm ra vắc - xin chống lại virut
+ind	ind	ai là người tổng_chỉ_huy chiến_dịch Điện_biên_phủ
+ind	ind	ai là nữ diễn_viên nổi_tiếng với vai_diễn trong bộ phim " gypsy "
+ind	ind	ai là người sáng_tạo ra điệu múa ba_lê
+ind	ind	ai là tổng_chỉ_huy quân_đội triều nguyễn chống pháp xâm_lược hà_nội năm 1873
+ind	ind	ai là tổng_thống đắc_cử nam_phi năm 1994
+ind	ind	ai phát_minh ra chiếc máy_ảnh chụp nhanh polaroid
+ind	ind	ai phát_minh ra điện_thoại
+ind	ind	ai phát_minh ra trivial_pursuit
+ind	ind	ai sống trong lâu_đài neuschwanstein
+ind	ind	ai vẽ trên trần nhà_nguyện sistine
+ind	ind	biệt_danh của shakespeare là gì
+ind	ind	bộ_trưởng bộ giáo dục của việt_nam là ai
+ind	ind	chủ_tịch quốc_hội nước chxhcn việt_nam là ai
+ind	ind	chủ_tịch thứ_hai của nước việt_nam dân_chủ cộng_hòa là ai
+ind	ind	hình của ai được in trên tờ tiền việt_nam
+ind	ind	nghệ_sĩ hài nào có câu nói đặc_trưng “ can we talk ”
+ind	ind	người da_màu đầu_tiên làm tổng_thống mỹ là ai
+ind	ind	người đàn_ông cao nhất thế_giới là ai
+ind	ind	người đàn_ông đầu_tiên bay qua thái_bình_dương là ai
+ind	ind	người đầu_tiên đến bắc_cực là ai
+ind	ind	người đứng đầu cuộc khởi_nghĩa bãi_sậy là ai
+ind	ind	người_mỹ đầu_tiên bước chân lên mặt_trăng là ai
+ind	ind	người_mỹ gốc châu phi đầu_tiên giành chiến_thắng trong giải_thưởng nobel văn_học là ai
+ind	ind	người phát_hiện ra oxy
+ind	ind	người phụ_nữ đầu_tiên thiệt_mạng trong cuộc chiến_tranh việt_nam là ai
+ind	ind	nhà soạn nhạc người mỹ đã viết bản_nhạc “ west_side_story ” là ai
+ind	ind	phó tổng_thống đầu_tiên của mỹ là ai
+ind	ind	tên của người vợ của # k là gì
+ind	ind	tên của vợ neil_amstrong là gì
+ind	ind	tên thật của nhà_văn kim_lân là gì
+ind	ind	tổng_thống đầu_tiên của mỹ xuất_hiện trên truyền_hình là ai
+ind	ind	tổng_thống đầu_tiên đi một chiếc xe tự chạy để nhậm_chức là ai
+ind	ind	tổng_thống duy_nhất đắc_cử 2 nhiệm_kỳ không liên_tiếp là ai
+ind	ind	tổng_thống mỹ năm 1913 là ai
+ind	ind	tổng_thống mỹ nào xuất_hiện trên " laugh-in "
+ind	ind	tổng_thống thứ 22 của mỹ là ai
+ind	ind	tổng_thống thứ 23 của mỹ là ai
+ind	ind	vị vua nữ đầu_tiên của nền phong_kiến việt_nam là ai
+city	city	Đà_nẵng nằm ở phía bắc của thành_phố nào
+city	city	hội_chợ thế_giới năm 1990 tổ_chức ở thành_phố nào
+city	city	milan nằm ở thành_phố nào
+city	city	tạp_chí của thành_phố nào được gọi_là " the_star "
+city	city	thành_phố lâu_đời nhất của việt_nam là thành_phố nào
+city	city	thành_phố lớn nhất thế_giới là thành_phố nào
+city	city	thành_phố nào của canada có dân_số lớn nhất
+city	city	thành_phố nào được mệnh_danh là thành_phố hoa_phượng đỏ
+city	city	thủ_đô của ba_tư là gì
+city	city	thủ_đô của bru-nây
+city	city	thủ_đô của myanmar là gì
+city	city	thủ_đô của myanmar là gì
+city	city	thủ_đô của zimbabwe là gì
+city	city	thành_phố nào có mã vùng là 351
+city	city	thành_phố nào nhỏ nhất việt_nam
+city	city	vịnh_hạ_long nằm ở thành_phố nào
+country	country	leonard_de_vinci sinh_ra tại quốc_gia nào
+country	country	nước có tình_trạng ô_nhiễm nước nhiều nhất
+country	country	nước nào cho new_york tượng nữ_thần tự_do
+mount	mount	dãy núi nào nằm giữa lào_cai và lai_châu và kéo_dài đến tận phía tây tỉnh yên_bái
+mount	mount	núi cao thứ_tư thế_giới là núi nào
+other	other	ai_cập ở châu_lục nào
+other	other	argentina thuộc lục_địa nào
+other	other	bảo_tàng little_league ở đâu
+other	other	biển_Đen nằm ở đâu
+other	other	cảng_soviet nào trên biển_Đen
+other	other	cây câu treo dài nhất nước mỹ là gì
+other	other	con sông lớn nhất chảy qua địa_phận tỉnh thanh_hóa là gì
+other	other	con sông nào dài nhất thế_giới
+other	other	Đảo_phú_quốc ở đâu
+other	other	Đập thủy_điện lớn nhất việt_nam
+other	other	Đâu là nơi mà những viên ngọc quý nước anh cất_giữ
+other	other	Đâu là sân golf đầu_tiên tại hoa_kỳ
+other	other	Đèo_hải_vân nằm ở đâu
+other	other	Địa_chỉ đường_phố của nhà_trắng là gì
+other	other	grand_canyon nằm ở đâu
+other	other	hành_tinh nào có sức hút mạnh nhất trong ​ tất_cả các hành_tinh
+other	other	hít le được chôn_cất ở đâu
+other	other	hồ sâu nhất ở mỹ là hồ nào
+other	other	hòn_trống_mái nằm ở đâu
+other	other	howard_hughes chết ở đâu
+other	other	ngôi_sao sáng nhất_là ngôi_sao nào
+other	other	nhà_tù nào canh_phòng cẩn_mật nhất thế_giới
+other	other	nơi mưa nhiều nhất trên trái_đất là nơi nào
+other	other	núi_lửa mauna_loa nằm ở đâu
+other	other	núi_lửa olympus_mons nằm ở đâu
+other	other	Ở ba lan người_dân tập_trung sống ở đâu
+other	other	Ốc_sên hình táo sống ở đâu
+other	other	quần_đảo hoàng_sa nằm ở biển nào
+other	other	quần_đảo hoàng_sa thuộc địa_phận tỉnh nào của nước ta
+other	other	sân_bay nội_bài nằm ở đâu
+other	other	sông nào chạy qua rowe , Ý
+other	other	sông_nin nằm ở đâu
+other	other	sông_savannah ở đâu
+other	other	tàu lượn cao nhất nằm ở đâu
+other	other	tây_ban_nha nằm trên bán_đảo nào
+other	other	tháp đôi của mỹ nằm ở đâu
+other	other	tháp_eiffel ở đâu
+other	other	trụ_sở liên_hiệp_quốc nằm ở đâu
+other	other	tuyến đường từ mason đến dixon ở đâu
+other	other	vị_trí của lake_champlain ở đâu
+other	other	vĩ_tuyến nào nằm giữa cực bắc và cực nam của trái_Đất
+other	other	việt_nam nằm ở bán_cầu nào
+other	other	vịnh_lăng_cô nằm ở đâu
+other	other	vườn_quốc_gia cát_tiên nằm ở đâu
+other	other	vườn_quốc_gia utah nằm ở đâu
+state	state	bang nào của mỹ có dân_số đông nhất
+state	state	bang nào lớn nhất nước mỹ
+state	state	dãy núi catskill ở bang nào
+date	date	nhà_văn tô_hoài được sinh vào năm nào
+count	count	có bao_nhiêu công_viên ở hà_nội
+count	count	có bao_nhiêu sĩ_quan chuyên_nghiệp trong quân_đội nhân_dân việt_nam
+count	count	mỗi ngày chúng_ta nên uống tối_thiểu bao_nhiêu lít nước
+count	count	một con bạch_tuộc có bao_nhiêu trái_tim
+count	count	một dặm có bao_nhiêu feet
+count	count	một_ga - lông bằng bao_nhiêu lít
+count	count	một tấn bằng bao_nhiêu pao
+date	date	bức tranh mona_lisa được vẽ năm nào
+date	date	ca cấy_ghép thận đầu_tiên khi nào
+date	date	cặp sinh_đôi của william_shakespeare sinh năm nào
+date	date	câu_lạc_bộ shb Đà_nẵng vô_địch v-leage lần gần đây nhất vào năm nào
+date	date	chế_độ_phong_kiến tại việt_nam kết_thúc vào năm nào
+date	date	chiếc tem_thư đầu_tiên phát_hành khi nào
+date	date	cửa_hàng wal-mart đầu_tiên mở khi nào
+date	date	Đồng_chí nguyễn_phú_trọng được bầu làm tổng_bí_thư vào năm nào
+date	date	hạ_chí là ngày nào
+date	date	hiệp_định paris được ký_kết vào ngày_tháng năm nào
+date	date	justin_bieber được sinh_ra khi nào
+date	date	khi nào abraham_lincoln được sinh_ra
+date	date	khi nào bắc_carolina gia_nhập công_đoàn
+date	date	khi nào đến bữa tiệc_trà boston
+date	date	khi nào điện_thoại được phát_minh ra
+date	date	khi nào hiroshima bị đánh bom
+date	date	khi nào_là ngày thánh_patrick
+date	date	khi nào thomas_jefferson được sinh_ra
+date	date	khi nào tổng_thống kennedy bị bắn
+date	date	khi nào ulysses # grant được sinh_ra
+date	date	mùa bão ở việt_nam xảy_ra tại thời_điểm nào trong năm
+date	date	mỹ đã mua alatska vào năm nào
+date	date	năm nào chương_trình andy_griffith bắt_đầu
+date	date	năm nào mozart được sinh_ra
+date	date	năm nào mussolini giành chính_quyền ở italy
+date	date	năm nào nfl đã đình_công
+date	date	năm nào tàu titanic bắt_đầu cuộc hành_trình của mình
+date	date	ngày độc_lập của mexico là ngày nào
+date	date	ngày nào dwight # eisenhower được sinh_ra
+date	date	ngày nào_là ngày chính_thức đầu_tiên của mùa_hè
+date	date	ngày nào_là ngày của cha
+date	date	ngày nào neil_armstrong lên mặt_trăng
+date	date	nhà_văn nguyễn_Đình_chiểu mất năm nào
+date	date	pha ghép gan thành_công đầu_tiên ở việt_nam xảy_ra khi nào
+date	date	sấm_sét thường xuất_hiện vào mùa nào trong năm
+date	date	sân_vận_động mỹ_Đình khánh_thành khi nào
+date	date	sinh_nhật susan # anthony là ngày nào
+date	date	sự_kiện trân_châu_cảng xảy_ra khi nào
+date	date	tàu_titanic bị chìm vào năm nào
+date	date	thị_xã hưng_yên trở_thành thành_phố từ khi nào
+date	date	tỉnh hà_nam được thành_lập từ khi nào
+date	date	việt_nam gia_nhập asian vào năm nào
+date	date	việt_nam trở_thành thuộc_địa của pháp từ khi nào
+date	date	wwii bắt_đầu_từ năm nào
+dist	dist	bức tượng phật lớn nhất việt_nam cao bao_nhiêu mét
+dist	dist	chiểu dài của một sân tennis là bao_nhiêu
+dist	dist	mặt_trăng cách đây bao_xa
+dist	dist	một dặm hàng_hải dài bao_nhiêu
+dist	dist	sao_diêm_vương cách mặt_trời bao_xa
+dist	dist	tòa nhà kang_nam cao bao_nhiêu
+money	money	một chiếc vé xem phim tại rạp trùng_khánh có_giá bao_nhiêu
+other	other	dân_số của nigeria
+other	other	dân_số của trung_quốc là bao_nhiêu
+other	other	dân_số của Úc là bao_nhiêu
+other	other	dân_số của venezuela là gì
+other	other	dân_số của việt_nam là bao_nhiêu
+other	other	dân_số thế_giới là bao_nhiêu
+other	other	Điểm_nóng chảy của vàng là bao_nhiêu độ
+other	other	mức thuế bán hàng ở new_york là gì
+other	other	sản_lượng điện ở việt_nam năm 2009 là bao_nhiêu
+other	other	tuổi_thọ của một đồng đô_la là bao_nhiêu
+perc	perc	tỷ_lệ giết người_ở windsor , ontario là bao_nhiêu
+period	period	thời_gian tổng_thống trẻ nhất của hoa_kỳ tại_vị là bao_lâu
+period	period	bao_nhiêu tuổi thì được điều_khiển xe_gắn_máy
+period	period	# mac chết năm bao_nhiêu tuổi
+period	period	joan of arc bao_nhiêu tuổi khi bà ấy chết
+period	period	khoảng thời_gian mang thai của loài mèo là bao_lâu
+period	period	phan_bội_châu mất năm bao_nhiêu tuổi
+period	period	thời_gian mang thai của voi là bao_lâu
+period	period	thời_gian sống trung_bình của loài gà là bao_lâu
+speed	speed	tốc_độ ánh_sáng là bao_nhiêu
+speed	speed	tốc_độ của âm_thanh là bao_nhiêu
+speed	speed	tốc_độ của ánh_sáng là bao_nhiêu
+temp	temp	nhiệt_độ ở tâm của trái_Đất là bao_nhiêu
+temp	temp	nhiệt_độ trên bề_mặt mặt_trời là bao_nhiêu
+temp	temp	nhiệt_độ trung_bình của cơ_thể con_người là bao_nhiêu
+temp	temp	tâm mặt_trời , nhiệt_độ ở đó là bao_nhiêu
+temp	temp	tủ_lạnh nên để ở nhiệt_độ nào
+weight	weight	bộ_não của một người phụ_nữ trưởng_thành nặng bao_nhiêu

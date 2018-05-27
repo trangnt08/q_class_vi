@@ -1,0 +1,86 @@
+loading model ...model_rf/bow.pkl
+ 2018-05-23 23:59:01.118734 - Training completed 0 mins and 3.97 seconds
+ 2018-05-23 23:59:01.153516 - Converting completed 0 mins and 0.03 seconds
+ accuracy: 0.868
+ f1 accuracy: 0.866
+confuse matrix:
+[[  7   2   0   0   0   0]
+ [  1 133   2   2   0   0]
+ [  0  12  63   8   7   3]
+ [  0   0   3  56   5   1]
+ [  0   1   5   1  73   1]
+ [  0   5   3   3   1 102]]
+-----------------------
+fine grained category
+-----------------------
+loading model ...model_rf/bow2.pkl
+ 2018-05-23 23:59:05.943224 - Training for fine grained category completed 0 mins and 4.79 seconds
+ 2018-05-23 23:59:05.996560 - Converting completed 0 mins and 0.05 seconds
+ accuracy for fine grained category: 0.752
+ f1 accuracy: 0.723
+
+
+ngram (1,2)
+loading model ...model_rf/bow.pkl
+ 2018-05-23 23:55:30.342957 - Training completed 0 mins and 3.89 seconds
+ 2018-05-23 23:55:30.373338 - Converting completed 0 mins and 0.03 seconds
+ accuracy: 0.878
+ f1 accuracy: 0.877
+confuse matrix:
+[[  7   2   0   0   0   0]
+ [  1 132   4   1   0   0]
+ [  0  16  69   5   2   1]
+ [  0   0   1  58   5   1]
+ [  0   0   7   3  70   1]
+ [  0   5   3   1   2 103]]
+-----------------------
+fine grained category
+-----------------------
+loading model ...model_rf/bow2.pkl
+ 2018-05-23 23:55:35.075880 - Converting completed 0 mins and 0.05 seconds
+ accuracy for fine grained category: 0.748
+ f1 accuracy: 0.722
+
+tfidf + (1,1)
+loading model ...model_rf/tfidf1.pkl
+ 2018-05-24 09:20:44.099865 - Training completed 0 mins and 4.23 seconds
+ 2018-05-24 09:20:44.127388 - Converting completed 0 mins and 0.03 seconds
+ accuracy: 0.882
+ f1 accuracy: 0.882
+confuse matrix:
+[[  7   2   0   0   0   0]
+ [  0 132   6   0   0   0]
+ [  0  12  69   6   3   3]
+ [  0   0   4  59   2   0]
+ [  0   1   8   0  72   0]
+ [  0   6   6   0   0 102]]
+-----------------------
+fine grained category
+-----------------------
+loading model ...model_rf/tfidf_fine.pkl
+ 2018-05-24 09:20:49.537151 - Training for fine grained category completed 0 mins and 5.41 seconds
+ 2018-05-24 09:20:49.577368 - Converting completed 0 mins and 0.04 seconds
+ accuracy for fine grained category: 0.754
+ f1 accuracy: 0.729
+
+
+loading model ...model_rf/tfidf1_2.pkl
+ 2018-05-24 09:23:45.995248 - Training completed 0 mins and 4.05 seconds
+ 2018-05-24 09:23:46.022546 - Converting completed 0 mins and 0.03 seconds
+ accuracy: 0.874
+ f1 accuracy: 0.874
+confuse matrix:
+[[  7   2   0   0   0   0]
+ [  0 133   5   0   0   0]
+ [  0  13  68   5   5   2]
+ [  0   0   6  58   1   0]
+ [  0   2  11   0  68   0]
+ [  0   7   4   0   0 103]]
+-----------------------
+fine grained category
+-----------------------
+loading model ...model_rf/tfidf_fine1_2.pkl
+ 2018-05-24 09:23:51.297406 - Training for fine grained category completed 0 mins and 5.27 seconds
+ 2018-05-24 09:23:51.338959 - Converting completed 0 mins and 0.04 seconds
+ accuracy for fine grained category: 0.760
+ f1 accuracy: 0.733

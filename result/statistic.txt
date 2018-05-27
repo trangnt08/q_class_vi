@@ -1,0 +1,14 @@
+train:
+["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]
+[[  88    0    0    0    0    0]
+ [   0 1151    0    0    0    0]
+ [   0    0 1257    0    0    0]
+ [   0    0    0 1217    0    0]
+ [   0    0    0    0  833    0]
+ [   0    0    0    0    0  895]]
+
+
+# a = confusion_matrix(y_train2, y_train2, labels=["abb","exp","animal","body", "color","cremat","currency","dismed","event","food","instru","lang","letter","plant","product","religion","sport","substance","symbol","techmeth","termeq","veh","word","def","manner","reason","gr","ind","title","city","country","mount","state","code","count","date","dist","money","ord","period","perc","speed","temp","volsize","weight","desc","other"])
+
+16,72,114,16,40,208,4,103,56,103,11,18,9,14,44,4,62,42,12,38,93,27,26,409,
+280,187,183,964,23,130,160,21,63,8,360,217,36,69,4,77,27,9,8,13,11,322,727

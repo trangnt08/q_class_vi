@@ -1,0 +1,448 @@
+ABBR	ABBR	tên viết tắt cho thành_phố hà_nội là gì
+ABBR	ABBR	# là viết tắt của từ gì
+ABBR	ABBR	cpr có nghĩa_là gì
+ABBR	ABBR	nasa có nghĩa_là gì
+ABBR	ABBR	thuật_ngữ isdn trong kỹ_thuật có nghĩa_là gì
+ABBR	ABBR	từ viết tắt nasa có dạng đầy_đủ là gì
+ABBR	ABBR	từ viết tắt sos có dạng đầy_đủ là gì
+ABBR	ABBR	usps có nghĩa_là gì
+DESC	DESC	acetaminophen là gì
+DESC	DESC	amoxicillin là gì
+DESC	DESC	angiotensin là gì
+DESC	DESC	axit_acetic là gì
+DESC	DESC	bác_sĩ nhi_khoa là gì
+DESC	DESC	bạch_cầu là gì
+DESC	DESC	bạch hoa là gì
+DESC	DESC	bại não là gì
+DESC	DESC	băng_thông là gì
+DESC	DESC	bay_hơi là gì
+DESC	DESC	bệnh_bạch_cầu là gì
+DESC	DESC	bệnh bò điên là gì
+DESC	DESC	bệnh cảm cúm là gì
+DESC	DESC	bệnh quai_bị là gì
+DESC	DESC	bệnh tiểu_đường là gì
+DESC	DESC	bệnh tự kỷ là gì
+DESC	DESC	các tác_nhân gây bệnh là gì
+DESC	DESC	các tế_bào năng_lượng mặt_trời là gì
+DESC	DESC	caffein là gì
+DESC	DESC	cận_thị là gì
+DESC	DESC	carbon dioxide là gì
+DESC	DESC	cây dương_xỉ là cây gì
+DESC	DESC	cha_truyền_con_nối là gì
+DESC	DESC	châm_cứu là gì
+DESC	DESC	chất_bán_dẫn là gì
+DESC	DESC	chất_dẻo là gì
+DESC	DESC	chất gây ung_thư là gì
+DESC	DESC	cholesterol là gì
+DESC	DESC	chóng_mặt là gì
+DESC	DESC	chứng động_kinh là gì
+DESC	DESC	chứng loạn dưỡng cơ là gì
+DESC	DESC	chứng loãng_xương là gì
+DESC	DESC	chứng rối_loạn hoảng_sợ là gì
+DESC	DESC	chứng tăng huyết_áp là gì
+DESC	DESC	chứng xơ_gan là gì
+DESC	DESC	ciao là gì
+DESC	DESC	công_nghệ nano là gì
+DESC	DESC	Đa_dạng_sinh_học là gì
+DESC	DESC	dải_ngân hà là gì
+DESC	DESC	Đạo_đức là gì
+DESC	DESC	diêm_sinh là gì
+DESC	DESC	diệt_chủng là gì
+DESC	DESC	Độ_ẩm là gì
+DESC	DESC	Động_đất là gì
+DESC	DESC	hang_động là gì
+DESC	DESC	Động_mạch là gì
+DESC	DESC	Động_vật_không_xương_sống là gì
+DESC	DESC	Đúc khuôn là gì
+DESC	DESC	e-coli là gì
+DESC	DESC	enzim là gì
+DESC	DESC	gia_tốc là gì
+DESC	DESC	gió mặt_trời là gì
+DESC	DESC	góc_vuông là gì
+DESC	DESC	hình elip là gì
+DESC	DESC	kiểm_tra dung_tích phổi là gì
+DESC	DESC	lăng_kính là gì
+DESC	DESC	lỗ thủng tần ozon là gì
+DESC	DESC	lol nghĩa_là gì
+DESC	DESC	luật gia_đình là gì
+DESC	DESC	lưỡng_cư là gì
+DESC	DESC	mardi_gras là gì
+DESC	DESC	mật_mã học là gì
+DESC	DESC	morphine là gì
+DESC	DESC	kháng_nguyên là gì
+DESC	DESC	pin nhiên_liệu là gì
+DESC	DESC	sáp môi là gì
+DESC	DESC	mưa axit là gì
+DESC	DESC	nấm là gì
+DESC	DESC	nấm_mốc là gì
+DESC	DESC	năng_lượng hạt_nhân là gì
+DESC	DESC	naproxen là gì
+DESC	DESC	natri clorua là gì
+DESC	DESC	neuron thần_kinh là gì
+DESC	DESC	ngày valentine là gì
+DESC	DESC	người thổ_dân là gì
+DESC	DESC	nguyên_tử là gì
+DESC	DESC	nhiệt_kế là gì
+DESC	DESC	nicotine là gì
+DESC	DESC	pectin là gì
+DESC	DESC	pháp_sư là gì
+DESC	DESC	phenylalanine là gì
+DESC	DESC	pilates là gì
+DESC	DESC	play-off nghĩa_là gì
+DESC	DESC	polyme là gì
+DESC	DESC	propylene glycol là gì
+DESC	DESC	quá_trình trao_đổi chất là gì
+DESC	DESC	rối_loạn tiêu_hóa là gì
+DESC	DESC	sao_băng là gì
+DESC	DESC	ngành khoa_học học là gì
+DESC	DESC	bột lăng là gì
+DESC	DESC	sinh_quyển là gì
+DESC	DESC	sở_thích pha_trộn là gì
+DESC	DESC	sóng_thần là gì
+DESC	DESC	sự lai_giống là gì
+DESC	DESC	tai_biến mạch_máu não là gì
+DESC	DESC	tâm_thần phân_liệt là gì
+DESC	DESC	tàu_điện_ngầm là gì
+DESC	DESC	thế_chấp tài_sản là gì
+DESC	DESC	thuốc kháng_sinh là gì
+DESC	DESC	thuốc_mê là gì
+DESC	DESC	thuỷ_ngân là gì
+DESC	DESC	tia_hồng_ngoại là gì
+DESC	DESC	tiểu_cầu là gì
+DESC	DESC	tuyến_giáp là gì
+DESC	DESC	tỷ_lệ nén nghĩa_là gì
+DESC	DESC	thiếu_tá là gì
+DESC	DESC	vệt đen mặt_trời là gì
+DESC	DESC	vết loét là gì
+DESC	DESC	viêm khớp dạng thấp là gì
+DESC	DESC	viêm phổi là gì
+DESC	DESC	vũ_khí_sinh_học là gì
+DESC	DESC	wimbledon là gì
+DESC	DESC	xã_hội là gì
+DESC	DESC	xơ_cứng động_mạch là gì
+DESC	DESC	xúc_xích nghiền là gì
+DESC	DESC	Ảnh_hưởng của mưa axit là gì
+DESC	DESC	máy khử rung tim làm việc_gì
+DESC	DESC	nhà khí_tượng_học làm_gì
+DESC	DESC	sự khác_nhau giữa am và fm là gì
+DESC	DESC	tác_động của núi_lửa lên khí_hậu là gì
+DESC	DESC	Đo động_đất như_thế_nào
+DESC	DESC	janice_joplin chết như_thế_nào
+DESC	DESC	cái gì gây ra tóc xám
+DESC	DESC	tại_sao con bọ_rùa lại có_ích
+DESC	DESC	tại_sao lại có hiện_tượng thủy_triều
+DESC	DESC	tại_sao mặt_trời màu vàng
+DESC	DESC	tại_sao trong tennis điểm không gọi_là tình_yêu
+DESC	DESC	thực_quản được sử_dụng để làm_gì
+ENTY	ENTY	chim biểu_tượng cho new_york là gì
+ENTY	ENTY	con chim nhỏ nhất ở anh là gì
+ENTY	ENTY	con_trâu con thì gọi_là gì
+ENTY	ENTY	Động_vật mà không có xương_sống gọi_là gì
+ENTY	ENTY	linh vật của sea_games 22 là gì
+ENTY	ENTY	loài chim nào bay nhanh_nhất
+ENTY	ENTY	loài động_vật nào nặng nhất thế_giới
+ENTY	ENTY	một chú sư_tử con gọi_là gì
+ENTY	ENTY	một nhóm các con ếch gọi_là gì
+ENTY	ENTY	tên con chó của fdr là gì
+ENTY	ENTY	tên khoa_học cho con voi là gì
+ENTY	ENTY	toto là loại chó nào trong " wizard of oz "
+ENTY	ENTY	bộ phần_nào trong cơ_thể có chức_năng bài_tiết
+ENTY	ENTY	Động_mạch duy_nhất mang máu màu xanh từ trái_tim đến phổi là gì
+ENTY	ENTY	cần trộn những màu gì để tạo ra màu da_cam
+ENTY	ENTY	dế có màu gì
+ENTY	ENTY	giấy quỳ chuyển sang màu gì khi nó tiếp_xúc với một axit mạnh
+ENTY	ENTY	hoa sen có màu gì
+ENTY	ENTY	lưỡi hươu_cao_cổ có màu gì
+ENTY	ENTY	màu của quốc_kì Đức là màu gì
+ENTY	ENTY	màu mắt phổ_biến nhất_là gì
+ENTY	ENTY	những màu_sắc nào cần phải được pha_trộn để có được màu hồng
+ENTY	ENTY	Ớt chín có màu gì
+ENTY	ENTY	sữa bò tây_tạng có màu gì
+ENTY	ENTY	argentina sử_dụng những loại tiền_tệ nào
+ENTY	ENTY	họ sử_dụng những loại tiền_tệ nào ở brazil
+ENTY	ENTY	lúc-xăm-bua sử_dụng những loại tiền_tệ nào
+ENTY	ENTY	Đơn_vị_tiền_tệ người_ta sử_dụng trong zambia là gì
+ENTY	ENTY	kể tên một chất kích_thích
+ENTY	ENTY	loài nhện ăn gì
+ENTY	ENTY	nước sốt melba làm từ hoa_quả nào
+ENTY	ENTY	tên một cao thực_phẩm giàu chất kẽm
+ENTY	ENTY	glenn_miller chơi nhạc_cụ gì
+ENTY	ENTY	ngôn_ngữ được nói phổ_biến nhất tại hà_lan là gì
+ENTY	ENTY	các cơ_quan chính của bên lập_pháp là gì
+ENTY	ENTY	edward_binney và howard_smith phát_minh ra cái gì năm 1903
+ENTY	ENTY	hai loại sinh_đôi là gì
+ENTY	ENTY	loại polymer được sử_dụng cho áo_khoác chống đạn là gì
+ENTY	ENTY	phong_vũ_biểu đo cái gì
+ENTY	ENTY	thuế kinh_doanh gồm những loại gì
+ENTY	ENTY	thuốc_nổ gồm những thành_phần gì
+ENTY	ENTY	tiêu_chuẩn của việc bị coi là mù là gì
+ENTY	ENTY	trận quần_vợt nào diễn ra lâu nhất trong lịch_sử
+ENTY	ENTY	loài hoa đặc_trưng của australia
+ENTY	ENTY	vải lanh được sản_xuất chủ_yếu từ_loại cây nào
+ENTY	ENTY	Đồ_chơi phổ_biến nhất năm 1957 là gì
+ENTY	ENTY	tên của vệ_tinh mỹ đầu_tiên được gửi vào không_gian là gì
+ENTY	ENTY	tên vệ_tinh mà liên_xô phóng vào không_gian năm 1957 là gì
+ENTY	ENTY	vệ_tinh đầu_tiên bay vào không_gian là gì
+ENTY	ENTY	các môn thể_thao phổ biếnhất ở nhật_bản là gì
+ENTY	ENTY	chất khoáng nào giúp phòng_ngừa chứng loãng n xương
+ENTY	ENTY	Đá_quý birthstone nào màu ngọc lam
+ENTY	ENTY	gương được làm từ gì
+ENTY	ENTY	khí gì ở tầng đối_lưu
+ENTY	ENTY	khí tự_nhiên gồm những thành_phần gì
+ENTY	ENTY	loại đá_quý nào_là một dạng cacbon tinh_khiết
+ENTY	ENTY	loại khí nào có trong bóng_đèn huỳnh_quang
+ENTY	ENTY	nguyên_tố nặng nhất tự_nhiên là gì
+ENTY	ENTY	plastic được làm từ gì
+ENTY	ENTY	thuốc_lá làm từ gì
+ENTY	ENTY	tượng_đài lý_thái_tổ được làm_bằng gì
+ENTY	ENTY	viên đá_quý gắn với tháng mười là gì
+ENTY	ENTY	xi_măng được sản_xuất từ những thành_phần gì
+ENTY	ENTY	cách dễ nhất để loại_bỏ hình nền là gì
+ENTY	ENTY	bạn gọi một từ mà viết ngược và xuôi giống nhau là gì
+ENTY	ENTY	chiếc váy truyền_thống của hàn_quốc gọi_là gì
+ENTY	ENTY	con bò con gọi_là gì
+ENTY	ENTY	một con kangaroo mới sinh được gọi_là gì
+ENTY	ENTY	những chấm trên quân bài đô - mi-nô gọi_là gì
+ENTY	ENTY	tên khác của vitamin b1 là gì
+ENTY	ENTY	máy_bay mà lindbergh lái một_mình vượt Đại_tây_dương tên gì
+ENTY	ENTY	phương_tiện giao_thông phổ_biến nhất việt_nam là gì
+ENTY	ENTY	tàu của william_penn có tên là gì
+HUM	HUM	nguyễn_huệ là ai
+HUM	HUM	nguyễn_trãi là ai
+HUM	HUM	osama_binladen là ai
+HUM	HUM	câu_lạc_bộ nào vô_địch v-leage mùa giải 2009-2010
+HUM	HUM	chuỗi cửa_hàng có trụ_sở chính tại bentonville , arkansas là gì
+HUM	HUM	công_ty sản_xuất sô cô la lớn nhất thế_giới là gì
+HUM	HUM	jesse_jackson đã tổ_chức gì
+HUM	HUM	ai đã viết " the_divine_comedy "
+HUM	HUM	ai giết john # kennedy
+HUM	HUM	ai là hoa_hậu việt_nam năm 2008
+HUM	HUM	ai là người đã đứng đầu cuộc khởi_nghĩa yên_bái
+HUM	HUM	ai là người đạt huy_chương field tại việt_nam
+HUM	HUM	ai là người đầu_tiên cai_trị alaska
+HUM	HUM	ai là người phát_minh ra máy_tính bỏ_túi
+HUM	HUM	ai là người sáng_lập hội_chữ_thập_đỏ việt_nam
+HUM	HUM	ai là người sáng_tác bài hát “ tiến_quân_ca ”
+HUM	HUM	ai là người sáng_tạo ra vũ_điệu hula
+HUM	HUM	ai là người tạo ra máy_tính mac
+HUM	HUM	ai là người tìm ra châu mỹ
+HUM	HUM	ai là người tìm ra radium
+HUM	HUM	ai là người tìm ra tia x
+HUM	HUM	ai là người tìm ra vắc - xin chống lại virut
+HUM	HUM	ai là người tổng_chỉ_huy chiến_dịch Điện_biên_phủ
+HUM	HUM	ai là nữ diễn_viên nổi_tiếng với vai_diễn trong bộ phim " gypsy "
+HUM	HUM	ai là người sáng_tạo ra điệu múa ba_lê
+HUM	HUM	ai là tổng_chỉ_huy quân_đội triều nguyễn chống pháp xâm_lược hà_nội năm 1873
+HUM	HUM	ai là tổng_thống đắc_cử nam_phi năm 1994
+HUM	HUM	ai phát_minh ra chiếc máy_ảnh chụp nhanh polaroid
+HUM	HUM	ai phát_minh ra điện_thoại
+HUM	HUM	ai phát_minh ra trivial_pursuit
+HUM	HUM	ai sống trong lâu_đài neuschwanstein
+HUM	HUM	ai vẽ trên trần nhà_nguyện sistine
+HUM	HUM	biệt_danh của shakespeare là gì
+HUM	HUM	bộ_trưởng bộ giáo dục của việt_nam là ai
+HUM	HUM	các nghị_sĩ từ tiểu_bang texas trong ủy_ban lực_lượng_vũ_trang là ai
+HUM	HUM	chủ_tịch quốc_hội nước chxhcn việt_nam là ai
+HUM	HUM	chủ_tịch thứ_hai của nước việt_nam dân_chủ cộng_hòa là ai
+HUM	HUM	hình của ai được in trên tờ tiền việt_nam
+HUM	HUM	nghệ_sĩ hài nào có câu nói đặc_trưng “ can we talk ”
+HUM	HUM	người da_màu đầu_tiên làm tổng_thống mỹ là ai
+HUM	HUM	người đàn_ông cao nhất thế_giới là ai
+HUM	HUM	người đàn_ông đầu_tiên bay qua thái_bình_dương là ai
+HUM	HUM	người đầu_tiên đến bắc_cực là ai
+HUM	HUM	người đứng đầu cuộc khởi_nghĩa bãi_sậy là ai
+HUM	HUM	người_mỹ đầu_tiên bước chân lên mặt_trăng là ai
+HUM	HUM	người_mỹ gốc châu phi đầu_tiên giành chiến_thắng trong giải_thưởng nobel văn_học là ai
+HUM	HUM	người phát_hiện ra oxy
+HUM	HUM	người phụ_nữ đầu_tiên thiệt_mạng trong cuộc chiến_tranh việt_nam là ai
+HUM	HUM	nhà soạn nhạc người mỹ đã viết bản_nhạc “ west_side_story ” là ai
+HUM	HUM	phó tổng_thống đầu_tiên của mỹ là ai
+HUM	HUM	tên của người vợ của # k là gì
+HUM	HUM	tên của vợ neil_amstrong là gì
+HUM	HUM	tên thật của nhà_văn kim_lân là gì
+HUM	HUM	thống_đốc alaska là ai
+HUM	HUM	tổng_thống đầu_tiên của mỹ xuất_hiện trên truyền_hình là ai
+HUM	HUM	tổng_thống đầu_tiên đi một chiếc xe tự chạy để nhậm_chức là ai
+HUM	HUM	tổng_thống duy_nhất đắc_cử 2 nhiệm_kỳ không liên_tiếp là ai
+HUM	HUM	tổng_thống mỹ năm 1913 là ai
+HUM	HUM	tổng_thống mỹ nào xuất_hiện trên " laugh-in "
+HUM	HUM	tổng_thống thứ 22 của mỹ là ai
+HUM	HUM	tổng_thống thứ 23 của mỹ là ai
+HUM	HUM	vị vua nữ đầu_tiên của nền phong_kiến việt_nam là ai
+LOC	LOC	Đà_nẵng nằm ở phía bắc của thành_phố nào
+LOC	LOC	hội_chợ thế_giới năm 1990 tổ_chức ở thành_phố nào
+LOC	LOC	milan nằm ở thành_phố nào
+LOC	LOC	tạp_chí của thành_phố nào được gọi_là " the_star "
+LOC	LOC	thành_phố còn được biết đến như cánh cửa đến với miền tây
+LOC	LOC	thành_phố lâu_đời nhất của việt_nam là thành_phố nào
+LOC	LOC	thành_phố lớn nhất thế_giới là thành_phố nào
+LOC	LOC	thành_phố modesto , california nằm ở nước nào
+LOC	LOC	thành_phố nào của canada có dân_số lớn nhất
+LOC	LOC	thành_phố nào được mệnh_danh là thành_phố hoa_phượng đỏ
+LOC	LOC	thủ_đô của ba_tư là gì
+LOC	LOC	thủ_đô của bru-nây
+LOC	LOC	thủ_đô của myanmar là gì
+LOC	LOC	thủ_đô của myanmar là gì
+LOC	LOC	thủ_đô của zimbabwe là gì
+LOC	LOC	thành_phố nào có mã vùng là 351
+LOC	LOC	thành_phố nào nhỏ nhất việt_nam
+LOC	LOC	vịnh_hạ_long nằm ở thành_phố nào
+LOC	LOC	leonard_de_vinci sinh_ra tại quốc_gia nào
+LOC	LOC	nước có tình_trạng ô_nhiễm nước nhiều nhất
+LOC	LOC	nước nào cho new_york tượng nữ_thần tự_do
+LOC	LOC	dãy_andes nằm ở đâu
+LOC	LOC	dãy núi nào nằm giữa lào_cai và lai_châu và kéo_dài đến tận phía tây tỉnh yên_bái
+LOC	LOC	núi cao thứ_tư thế_giới là núi nào
+LOC	LOC	ai_cập ở châu_lục nào
+LOC	LOC	argentina thuộc lục_địa nào
+LOC	LOC	bảo_tàng little_league ở đâu
+LOC	LOC	biển_Đen nằm ở đâu
+LOC	LOC	cảng_soviet nào trên biển_Đen
+LOC	LOC	cây câu treo dài nhất nước mỹ là gì
+LOC	LOC	con sông lớn nhất chảy qua địa_phận tỉnh thanh_hóa là gì
+LOC	LOC	con sông nào dài nhất thế_giới
+LOC	LOC	Đảo_phú_quốc ở đâu
+LOC	LOC	Đâu là nơi mà những viên ngọc quý nước anh cất_giữ
+LOC	LOC	Đâu là sân golf đầu_tiên tại hoa_kỳ
+LOC	LOC	Đèo_hải_vân nằm ở đâu
+LOC	LOC	Địa_chỉ đường_phố của nhà_trắng là gì
+LOC	LOC	grand_canyon nằm ở đâu
+LOC	LOC	hít le được chôn_cất ở đâu
+LOC	LOC	hồ sâu nhất ở mỹ là hồ nào
+LOC	LOC	hòn_trống_mái nằm ở đâu
+LOC	LOC	howard_hughes chết ở đâu
+LOC	LOC	kênh đào nào nằm giữa châu phi và châu Á
+LOC	LOC	nhà_tù nào canh_phòng cẩn_mật nhất thế_giới
+LOC	LOC	nơi mưa nhiều nhất trên trái_đất là nơi nào
+LOC	LOC	núi_lửa mauna_loa nằm ở đâu
+LOC	LOC	núi_lửa olympus_mons nằm ở đâu
+LOC	LOC	Ở ba lan người_dân tập_trung sống ở đâu
+LOC	LOC	Ốc_sên hình táo sống ở đâu
+LOC	LOC	quần_đảo hoàng_sa nằm ở biển nào
+LOC	LOC	quần_đảo hoàng_sa thuộc địa_phận tỉnh nào của nước ta
+LOC	LOC	sân_bay nội_bài nằm ở đâu
+LOC	LOC	sông_lam nằm ở tỉnh nào
+LOC	LOC	sông nào chạy qua rowe , Ý
+LOC	LOC	sông_nin nằm ở đâu
+LOC	LOC	sông_savannah ở đâu
+LOC	LOC	tàu lượn cao nhất nằm ở đâu
+LOC	LOC	tây_ban_nha nằm trên bán_đảo nào
+LOC	LOC	tháp đôi của mỹ nằm ở đâu
+LOC	LOC	tháp_eiffel ở đâu
+LOC	LOC	trụ_sở liên_hiệp_quốc nằm ở đâu
+LOC	LOC	tuyến đường từ mason đến dixon ở đâu
+LOC	LOC	vị_trí của lake_champlain ở đâu
+LOC	LOC	việt_nam nằm ở bán_cầu nào
+LOC	LOC	vịnh_lăng_cô nằm ở đâu
+LOC	LOC	vườn_quốc_gia cát_tiên nằm ở đâu
+LOC	LOC	vườn_quốc_gia utah nằm ở đâu
+LOC	LOC	bang nào của mỹ có dân_số đông nhất
+LOC	LOC	bang nào lớn nhất nước mỹ
+LOC	LOC	dãy núi catskill ở bang nào
+LOC	LOC	lũng_cú nằm ở tỉnh nào
+LOC	LOC	tỉnh nào có lượng mưa trong năm lớn nhất cả nước
+NUM	NUM	nhà_văn tô_hoài được sinh vào năm nào
+NUM	NUM	có bao_nhiêu công_viên ở hà_nội
+NUM	NUM	có bao_nhiêu sĩ_quan chuyên_nghiệp trong quân_đội nhân_dân việt_nam
+NUM	NUM	mỗi ngày chúng_ta nên uống tối_thiểu bao_nhiêu lít nước
+NUM	NUM	một con bạch_tuộc có bao_nhiêu trái_tim
+NUM	NUM	một dặm có bao_nhiêu feet
+NUM	NUM	một_ga - lông bằng bao_nhiêu lít
+NUM	NUM	một quả táo giá bao_nhiêu
+NUM	NUM	một tấn bằng bao_nhiêu pao
+NUM	NUM	bức tranh mona_lisa được vẽ năm nào
+NUM	NUM	ca cấy_ghép thận đầu_tiên khi nào
+NUM	NUM	cặp sinh_đôi của william_shakespeare sinh năm nào
+NUM	NUM	câu_lạc_bộ shb Đà_nẵng vô_địch v-leage lần gần đây nhất vào năm nào
+NUM	NUM	chế_độ_phong_kiến tại việt_nam kết_thúc vào năm nào
+NUM	NUM	chiếc tem_thư đầu_tiên phát_hành khi nào
+NUM	NUM	cửa_hàng wal-mart đầu_tiên mở khi nào
+NUM	NUM	Đồng_chí nguyễn_phú_trọng được bầu làm tổng_bí_thư vào năm nào
+NUM	NUM	hạ_chí là ngày nào
+NUM	NUM	hiệp_định paris được ký_kết vào ngày_tháng năm nào
+NUM	NUM	justin_bieber được sinh_ra khi nào
+NUM	NUM	khi nào abraham_lincoln được sinh_ra
+NUM	NUM	khi nào bắc_carolina gia_nhập công_đoàn
+NUM	NUM	khi nào đến bữa tiệc_trà boston
+NUM	NUM	khi nào điện_thoại được phát_minh ra
+NUM	NUM	khi nào hiroshima bị đánh bom
+NUM	NUM	khi nào_là ngày thánh_patrick
+NUM	NUM	khi nào thomas_jefferson được sinh_ra
+NUM	NUM	khi nào tổng_thống kennedy bị bắn
+NUM	NUM	khi nào ulysses # grant được sinh_ra
+NUM	NUM	mùa bão ở việt_nam xảy_ra tại thời_điểm nào trong năm
+NUM	NUM	mỹ đã mua alatska vào năm nào
+NUM	NUM	năm nào chương_trình andy_griffith bắt_đầu
+NUM	NUM	năm nào mozart được sinh_ra
+NUM	NUM	năm nào mussolini giành chính_quyền ở italy
+NUM	NUM	năm nào nfl đã đình_công
+NUM	NUM	năm nào tàu titanic bắt_đầu cuộc hành_trình của mình
+NUM	NUM	ngày độc_lập của mexico là ngày nào
+NUM	NUM	ngày nào dwight # eisenhower được sinh_ra
+NUM	NUM	ngày nào_là ngày chính_thức đầu_tiên của mùa_hè
+NUM	NUM	ngày nào_là ngày của cha
+NUM	NUM	ngày nào neil_armstrong lên mặt_trăng
+NUM	NUM	ngày_tháng nguyễn_trãi mất
+NUM	NUM	nhà_văn nguyễn_Đình_chiểu mất năm nào
+NUM	NUM	pha ghép gan thành_công đầu_tiên ở việt_nam xảy_ra khi nào
+NUM	NUM	sấm_sét thường xuất_hiện vào mùa nào trong năm
+NUM	NUM	sân_vận_động mỹ_Đình khánh_thành khi nào
+NUM	NUM	sinh_nhật susan # anthony là ngày nào
+NUM	NUM	sự_kiện trân_châu_cảng xảy_ra khi nào
+NUM	NUM	tàu_titanic bị chìm vào năm nào
+NUM	NUM	thị_xã hưng_yên trở_thành thành_phố từ khi nào
+NUM	NUM	tỉnh hà_nam được thành_lập từ khi nào
+NUM	NUM	việt_nam gia_nhập asian vào năm nào
+NUM	NUM	việt_nam trở_thành thuộc_địa của pháp từ khi nào
+NUM	NUM	wwii bắt_đầu_từ năm nào
+NUM	NUM	bức tượng phật lớn nhất việt_nam cao bao_nhiêu mét
+NUM	NUM	chiều dài bờ biển của nước ta là bao_nhiêu
+NUM	NUM	chiểu dài của một sân tennis là bao_nhiêu
+NUM	NUM	chiều rộng của một sân bóng_đá là bao_nhiêu
+NUM	NUM	Độ cao ngọn louis là bao_nhiêu
+NUM	NUM	Đường_kính của quả bóng golf là bao_nhiêu
+NUM	NUM	khoảng_cách bằng dặm từ trái_Đất tới mặt_trời là bao_nhiêu
+NUM	NUM	khoảng_cách là bao_nhiêu từ hà_nội đến tp hồ_chí_minh
+NUM	NUM	mặt_trăng cách đây bao_xa
+NUM	NUM	một dặm hàng_hải dài bao_nhiêu
+NUM	NUM	sao_diêm_vương cách mặt_trời bao_xa
+NUM	NUM	sông_columbia dài bao dặm
+NUM	NUM	tòa nhà kang_nam cao bao_nhiêu
+NUM	NUM	một chiếc vé xem phim tại rạp trùng_khánh có_giá bao_nhiêu
+NUM	NUM	một pe - xo bằng bao_nhiêu đô_la mỹ
+NUM	NUM	bao_lâu thì old_faithful lại phun tại công_viên quốc_gia yellowstone
+NUM	NUM	có bao_nhiêu ga - lon nước trong một mét_khối nước
+NUM	NUM	dân_số của nigeria
+NUM	NUM	dân_số của trung_quốc là bao_nhiêu
+NUM	NUM	dân_số của Úc là bao_nhiêu
+NUM	NUM	dân_số của venezuela là gì
+NUM	NUM	dân_số của việt_nam là bao_nhiêu
+NUM	NUM	dân_số thế_giới là bao_nhiêu
+NUM	NUM	Điểm_nóng chảy của vàng là bao_nhiêu độ
+NUM	NUM	nhiệt_độ nóng_chảy của đồng là bao_nhiêu
+NUM	NUM	sản_lượng điện ở việt_nam năm 2009 là bao_nhiêu
+NUM	NUM	tuổi_thọ của một đồng đô_la là bao_nhiêu
+NUM	NUM	tuổi_thọ trung_bình của loài cá_voi xanh là bao_lâu
+NUM	NUM	nước_đang_phát_triển chiếm bao phần_trăm của dân_số thế_giới
+NUM	NUM	tỷ_lệ giết người_ở windsor , ontario là bao_nhiêu
+NUM	NUM	thời_gian tổng_thống trẻ nhất của hoa_kỳ tại_vị là bao_lâu
+NUM	NUM	bao_nhiêu tuổi thì được điều_khiển xe_gắn_máy
+NUM	NUM	# mac chết năm bao_nhiêu tuổi
+NUM	NUM	joan of arc bao_nhiêu tuổi khi bà ấy chết
+NUM	NUM	khoảng thời_gian mang thai của loài mèo là bao_lâu
+NUM	NUM	phan_bội_châu mất năm bao_nhiêu tuổi
+NUM	NUM	thời_gian mang thai của voi là bao_lâu
+NUM	NUM	thời_gian sống trung_bình của loài gà là bao_lâu
+NUM	NUM	tốc_độ ánh_sáng là bao_nhiêu
+NUM	NUM	tốc_độ của âm_thanh là bao_nhiêu
+NUM	NUM	tốc_độ của ánh_sáng là bao_nhiêu
+NUM	NUM	tốc_độ hấp_thụ của rượu là bao_nhiêu
+NUM	NUM	tốc_độ trung_bình của máy_bay dân_dụng là bao_nhiêu
+NUM	NUM	tốc_độ trung_bình của một con báo châu phi là bao_nhiêu
+NUM	NUM	nhiệt_độ ở tâm của trái_Đất là bao_nhiêu
+NUM	NUM	nhiệt_độ trên bề_mặt mặt_trời là bao_nhiêu
+NUM	NUM	nhiệt_độ trung_bình của cơ_thể con_người là bao_nhiêu
+NUM	NUM	tâm mặt_trời , nhiệt_độ ở đó là bao_nhiêu
+NUM	NUM	bộ_não của một người phụ_nữ trưởng_thành nặng bao_nhiêu
+NUM	NUM	một khối nước_nặng bao_nhiêu
+NUM	NUM	trọng_lượng trung_bình của một con gấu_bắc cực trưởng_thành là gì

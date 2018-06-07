@@ -124,13 +124,6 @@ def rf():
     if test is None:
         test = load_data('datavn/test')
 
-    print "Data dimensions:", train.shape
-    print "List features:", train.columns.values
-    print "First review:", train["label1"][0], "|", train["question"][0]
-
-    print "Data dimensions:", test.shape
-    print "List features:", test.columns.values
-    print "First review:", test["label1"][0], "|", test["question"][0]
 
     train_text = train["question"].values
     test_text = test["question"].values

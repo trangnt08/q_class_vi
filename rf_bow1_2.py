@@ -2,8 +2,6 @@
 import re
 
 import unicodedata
-
-from pyvi.pyvi import ViPosTagger, ViTokenizer
 from sklearn.ensemble import RandomForestClassifier
 
 from sklearn.externals import joblib
@@ -97,62 +95,41 @@ def load_data(filename):
     with open(filename, 'r') as f:
         for line in f:
             label1, p, label2, question = line.split(" ", 3)
-            question = question.replace("\n","")
-            question = question.replace("?", "")
-            s1 = ViPosTagger.postagging(unicode(question, encoding='utf-8'))  # gan nhan POS
-            r1 = []
-            for i1, i2 in zip(s1[0], s1[1]):
-                t1 = i1 + "_" + i2
-                t1 = t1.encode('utf-8')
-                r1.append(t1)
-            z = ' '.join(r1)
-
-            col4.append(z)
+            # question = review_to_words(question,'datavn/question_stopwords.txt')
+            # question = clean_str_vn(question)
             col1.append(label1)
             col2.append(label2)
-            if filename == 'datavn/train':
-                if label1 == "ABBR":
-                    for i in xrange(1):
-                        col1.append(label1)
-                        col2.append(label2)
-                        col4.append(z)
-            # col3.append(question)
-        d = {"label1":col1, "label2":col2, "question": col4}
+            col3.append(question)
+
+        d = {"label1":col1, "label2":col2, "question": col3}
 
         train = pd.DataFrame(d)
         if filename == 'datavn/train':
-            joblib.dump(train, 'model_pos/train_pos.pkl')
+            joblib.dump(train, 'model_rf/train_bow1_2.pkl')
         else:
-            joblib.dump(train, 'model_pos/test_pos.pkl')
+            joblib.dump(train, 'model_rf/test_bow1_2.pkl')
     return train
 
 
 def svm():
-    train = load_model('model_pos/train_pos.pkl')
+    train = load_model('model_rf/train_bow1_2.pkl')
     if train is None:
         train = load_data('datavn/train')
 
-    vectorizer = load_model('model_pos/vectorizer_pos.pkl')
+    vectorizer = load_model('model_rf/vectorizer_bow1_2.pkl')
     if vectorizer == None:
-        vectorizer = TfidfVectorizer(ngram_range=(1, 2), max_df=0.7, min_df=2, max_features=1000)
-    test = load_model('model_pos/test_pos.pkl')
+        # vectorizer = TfidfVectorizer(ngram_range=(1, 1), max_df=0.7, min_df=2, max_features=1000)
+        vectorizer = CountVectorizer(ngram_range=(1,2), max_df=0.7, min_df=2, max_features=1000)
+    test = load_model('model/test1_2.pkl')
     if test is None:
         test = load_data('datavn/test')
-
-    print "Data dimensions:", train.shape
-    print "List features:", train.columns.values
-    print "First review:", train["label1"][0], "|", train["question"][0]
-
-    print "Data dimensions:", test.shape
-    print "List features:", test.columns.values
-    print "First review:", test["label1"][0], "|", test["question"][0]
 
     train_text = train["question"].values
     test_text = test["question"].values
 
     vectorizer.fit(train_text)
     X_train = vectorizer.transform(train_text)
-    joblib.dump(vectorizer, 'model_pos/vectorizer_pos.pkl')
+    joblib.dump(vectorizer, 'model_rf/vectorizer_bow1_2.pkl')
     X_train = X_train.toarray()
     y_train = train["label1"]
     y_train2 = train["label2"]
@@ -161,41 +138,41 @@ def svm():
     X_test = X_test.toarray()
     y_test = test["label1"]
     y_test2 = test["label2"]
+    # joblib.dump(vectorizer, 'model/vectorizer2.pkl')
     print "---------------------------"
     print "Training"
     print "---------------------------"
-    names = ["RBF SVC"]
     # iterate over classifiers
-    clf = load_model('model_pos/pos.pkl')
+    clf = load_model('model/bow1_2.pkl')
     if clf is None:
         t0 = time.time()
-        clf = SVC(kernel='rbf', C=1000)
+        clf = RandomForestClassifier(n_estimators=100)
         clf.fit(X_train, y_train)
-        joblib.dump(clf, 'model_pos/pos.pkl')
+        joblib.dump(clf, 'model_rf/bow1_2.pkl')
         print " %s - Training completed %s" % (datetime.datetime.now(), time_diff_str(t0, time.time()))
     t1 = time.time()
     y_pred = clf.predict(X_test)
     print " %s - Converting completed %s" % (datetime.datetime.now(), time_diff_str(t1, time.time()))
     print " accuracy: %0.3f" % accuracy_score(y_test, y_pred)
-    print " f1: %0.3f" % f1_score(y_test, y_pred, average='weighted')
-
+    print " f1 accuracy: %0.3f" % f1_score(y_test, y_pred, average='weighted')
     print "confuse matrix: \n", confusion_matrix(y_test, y_pred, labels=["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"])
 
     print "-----------------------"
     print "fine grained category"
     print "-----------------------"
-    clf2 = load_model('model_pos/pos_fine.pkl')
+    clf2 = load_model('model_rf/bow_fine1_2.pkl')
     if clf2 is None:
         t2 = time.time()
-        clf2 = SVC(kernel='rbf', C=1000)
+        clf2 = RandomForestClassifier(n_estimators=100)
         clf2.fit(X_train, y_train2)
-        joblib.dump(clf2, 'model_pos/pos_fine.pkl')
+        joblib.dump(clf2, 'model/bow_fine1_2.pkl')
         print " %s - Training for fine grained category completed %s" % (datetime.datetime.now(), time_diff_str(t2, time.time()))
     t3 = time.time()
     y_pred2 = clf2.predict(X_test)
     print " %s - Converting completed %s" % (datetime.datetime.now(), time_diff_str(t3, time.time()))
     print " accuracy for fine grained category: %0.3f\n" % accuracy_score(y_test2,y_pred2)
-    print " f1: %0.3f" % f1_score(y_test2, y_pred2, average='weighted')
+    print " f1 accuracy: %0.3f" % f1_score(y_test2, y_pred2, average='weighted')
+
 if __name__ == '__main__':
     svm()
     # rf()
